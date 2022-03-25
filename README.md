@@ -4,9 +4,9 @@ Identify which questions asked on Quora are duplicates of questions that have al
 
 It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not.
 
-####Metric(s):
+#### Metric(s):
 
 log-loss
 Binary Confusion Matrix
 
-####Data Source: https://www.kaggle.com/c/quora-question-pairs#evaluation
+#### Data Source: https://www.kaggle.com/c/quora-question-pairs#evaluation
